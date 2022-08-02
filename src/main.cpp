@@ -67,7 +67,9 @@ void loop() {
   delayMicroseconds(1e6);
   motor.setAngleDirect(2, 2, 80);
   delayMicroseconds(1e6);
-
+//this is for git!
+//forgit about git 
+//funnnnnnny
 
 
   // motor.setAngleDirect(0, 1, -20);
