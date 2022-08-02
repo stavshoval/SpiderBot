@@ -8,10 +8,10 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "c:/Users/User/Desktop/esp32/test2/include",
-                "c:/Users/User/Desktop/esp32/test2/src",
+                "c:/Users/User/Desktop/esp32/SpiderBot/include",
+                "c:/Users/User/Desktop/esp32/SpiderBot/src",
                 "C:/Users/User/.platformio/packages/framework-arduinoespressif32/libraries/EEPROM/src",
-                "c:/Users/User/Desktop/esp32/test2/.pio/libdeps/esp32dev/Adafruit PWM Servo Driver Library",
+                "c:/Users/User/Desktop/esp32/SpiderBot/.pio/libdeps/esp32dev/Adafruit PWM Servo Driver Library",
                 "C:/Users/User/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
                 "C:/Users/User/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                 "C:/Users/User/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
@@ -223,10 +223,10 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "c:/Users/User/Desktop/esp32/test2/include",
-                    "c:/Users/User/Desktop/esp32/test2/src",
+                    "c:/Users/User/Desktop/esp32/SpiderBot/include",
+                    "c:/Users/User/Desktop/esp32/SpiderBot/src",
                     "C:/Users/User/.platformio/packages/framework-arduinoespressif32/libraries/EEPROM/src",
-                    "c:/Users/User/Desktop/esp32/test2/.pio/libdeps/esp32dev/Adafruit PWM Servo Driver Library",
+                    "c:/Users/User/Desktop/esp32/SpiderBot/.pio/libdeps/esp32dev/Adafruit PWM Servo Driver Library",
                     "C:/Users/User/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
                     "C:/Users/User/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                     "C:/Users/User/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
